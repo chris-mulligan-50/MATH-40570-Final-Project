@@ -1,6 +1,6 @@
 # ETF & Mutual Fund Portfolio Optimization
 
-Final project for **MATH 40570 — Mathematical Methods in Financial Economics** at the **University of Notre Dame**. The project applies mean-variance portfolio theory to real market data, constructing optimal portfolios from a universe of sector ETFs and mutual funds and validating the results with Monte Carlo simulation. The full written report is [`MMFE_Project.pdf`](MMFE_Project.pdf).
+Final project for **MATH 40570 — Mathematical Methods in Financial Economics** at the **University of Notre Dame** completed from January - May 2025. The project applies mean-variance portfolio theory to real market data, constructing optimal portfolios from a universe of sector ETFs and mutual funds and validating the results with Monte Carlo simulation. The full written report is [`MMFE_Project.pdf`](MMFE_Project.pdf).
 
 ---
 
