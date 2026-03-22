@@ -6,4 +6,5 @@ scipy
 yfinance
 cvxpy
 plotly
+nbformat>=4.2.0
 requests
